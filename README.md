@@ -1,5 +1,7 @@
 The Personal Information Password Generator - PIPG
+
 All rights reserved - @RoyHatton - github.com/royh2149
+
 Free to use. Please use this tool only for legal purposes, I won't be held responsible in case you don't.
 
 Credit to Yuval Shtalman for introducing me to the CeWL tool and pointing out for me how common "personal" passwords are.
