@@ -8,11 +8,13 @@ Credit to Yuval Shtalman for introducing me to the CeWL tool and pointing out fo
 
 PIPG generates many common passwords based on the inputed personal information.
 
+Soon there will be a script to add pipg, gpipg to path and execute from anywhere in the system.
+
 Usage:
 
-    gpipg = open the Graphical PIPG
+    python3 gpipg.py = open the Graphical PIPG
     
-    pipg [-i interactive] [-f first name] [-l last name] [-m name1,name2,name3...] 
+    python3 pipg.py [-i interactive] [-f first name] [-l last name] [-m name1,name2,name3...] 
          [-p name1,name2,name3...] [-d birthdate] [-e email] [-o <file>]
 
 Arguments:
