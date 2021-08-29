@@ -3,7 +3,7 @@ from PyQt5.QtGui import QFont
 # error codes
 ARGS_ERROR = 1
 
-README_FILE = "README"
+README_FILE = "README.md"
 
 EMPTY = None  # value of an empty field in the Victim class
 MAX_PASSWORD_LENGTH = 20  # maximum length of a password
